@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(228, 240, 253);
+}
+
+.wrapper{
+    border: 2mm ridge rgba(211, 220, 50, .6);
+    padding: 10px;
+}
